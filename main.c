@@ -3,6 +3,7 @@
 int main()
 {
   int a;
+  // input bilangan 
   printf("Masukkan sebuah bilangan : ");
   scanf("%d", &a);
 
